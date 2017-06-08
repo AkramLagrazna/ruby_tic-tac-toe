@@ -6,9 +6,7 @@ class Engine
   POSITION = %w[1 2 3 4 5 6 7 8 9]
   INFO = <<Doc
 ************************************************************************
-                Powerful Tic-Tac-Toe game in Ruby Language
-                  Author: [santosh.wadghule@gmail.com]
-                Copyright: (c) 2011-2014 Santosh Wadghule
+                            coded by ruined.
 ************************************************************************
 Doc
 
